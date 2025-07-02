@@ -1,0 +1,116 @@
+@import url("/src/css/clash-display.css");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* 
+.primary-color {
+  color: #4640de;
+}
+.secondary-color {
+  color: #ccccf5;
+}
+.teriary-color {
+  color: #e7f6fd;
+}
+
+.cyan-accent-color {
+  color: #26a4ff;
+}
+
+.red-accent-color {
+  color: #ff6550;
+}
+.green-accent-color {
+  color: #56cdad;
+}
+.purple-accent-color {
+  color: #7b61ff;
+}
+
+.yellow-accent-color {
+  color: #ffb836;
+}
+.neutral-color {
+  color: #25324b;
+} */
+
+/* #app {
+  font-family: ClashDisplay-medium;
+} */
+
+/*
+h1 {
+  font-family: ClashDisplay-Bold;
+}
+
+p {
+  font-family: ClashDisplay-Regular;
+} */
+
+html,
+body {
+  font-family: "ClashDisplay-Regular", sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "ClashDisplay-Semibold", sans-serif;
+  font-size: 2.5rem;
+  color: #333;
+}
+
+/* p {
+  font-family: "ClashDisplay-Regular", sans-serif;
+  font-size: 1rem;
+  color: #333;
+} */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  font-family: "ClashDisplay-Semibold", sans-serif;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #4640de; /* Primary color */
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.router-link {
+  font-family: "ClashDisplay-Semibold", sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+}
+input,
+textarea {
+  font-family: "ClashDisplay-Regular", sans-serif;
+  font-size: 1rem;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+select {
+  font-family: "ClashDisplay-Regular", sans-serif;
+  font-size: 1rem;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+* {
+  font-family: "ClashDisplay-Regular", sans-serif;
+}
+/* Add more styles as needed */
+/* Responsive styles */
