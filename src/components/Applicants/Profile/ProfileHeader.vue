@@ -355,5 +355,4 @@ export default {
 .object-fit-cover {
   object-fit: cover;
 }
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css");
 </style>

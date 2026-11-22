@@ -18,6 +18,9 @@ export default defineConfig({
   },
 
   server: {
-    allowedHosts: ["jobhunter.sokmeak.site"],
+    allowedHosts: [
+      "jobhunter.sokmeak.site",
+      "workspace-txyflhng-db559f73a086eaac.v0.build",
+    ],
   },
 });

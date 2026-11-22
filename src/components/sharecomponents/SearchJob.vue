@@ -56,7 +56,6 @@
 
 <script setup>
 import { ref, watch } from "vue";
-import { defineProps, defineEmits, defineExpose } from "vue";
 
 // Props
 const props = defineProps({
